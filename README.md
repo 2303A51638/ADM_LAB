@@ -5,3 +5,5 @@
 #LAB 02 - (https://github.com/2303A51638/ADM_LAB/blob/main/LAB_02.ipynb)
 
 #LAB EXAM 01 -(https://colab.research.google.com/drive/1Uh7Yf-6gZ2h6Fnwt43E1Q1yPeguiALmm#scrollTo=6V4B1tyqwjb-)
+
+#LAB09 - (https://github.com/2303A51638/ADM_LAB/blob/main/LAB_09.ipynb)
